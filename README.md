@@ -1,1 +1,2 @@
-# Estudio-econom-tricos-sobre-la-oferta-y-demanda-monetaria-argentina
+# Estudio-econométricos-sobre-la-oferta-y-demanda-monetaria-argentina
+En este punto realizaremos una mención somera de los estudios de origen econométrico de la oferta y demanda monetaria que suelen realizarse en nuestro país. Es nuestro objetivo analizarlos sólo en su estructura instrumental, a fin de que el lector interesado pueda recurrir a las fuentes correspondientes. Con respecto a la oferta monetaria, se suele hallar y analizar el valor del llamado “multiplicador de la base monetaria”. 
